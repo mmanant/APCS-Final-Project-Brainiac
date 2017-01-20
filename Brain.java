@@ -1,5 +1,6 @@
 /**
  * Brain.java
+
  * Assignment: APCS Final Project 
  *
  * Overview: This class creates the first window that pops up with all of the lobes of the brain 
@@ -7,6 +8,24 @@
  *
  * @version 06/20/16
  * @author Manjari Anant
+ */
+
+
+/* TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST 
+ * TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST
+ * TEST
  */
 
 import java.awt.*;
