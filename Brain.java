@@ -35,7 +35,7 @@ import java.io.*;
 import javax.imageio.*;
 import javax.swing.*;
 public class Brain extends JComponent
-///TEST////
+///TEST333333////
 {
    private Image brain;
    private JFrame frame;
